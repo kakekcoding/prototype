@@ -1,5 +1,5 @@
 # Permasalahan bug
-[![MIT License](https://github.com/kakekcoding/prototype/blob/master/LICENSE.md)
+[![MIT License](https://github.com/kakekcoding/prototype/blob/master/LICENSE.md)]
 
 Bantu fix file /prototype/reservasi/layouts/partials/head.php
 
