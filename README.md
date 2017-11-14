@@ -5,4 +5,4 @@ Bantu fix file /prototype/reservasi/layouts/partials/head.php
 Download Git [di sini](https://git-scm.com/downloads)
 
 # Contributor
-@https://github.com/nurohman-fitriyanto
+@nurohman-fitriyanto
