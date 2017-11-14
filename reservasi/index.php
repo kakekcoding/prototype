@@ -11,5 +11,6 @@
 
 
 	<?php require_once (dirname(__FILE__).'/layouts/partials/footer.html'); ?>
+	<?php require_once (dirname(__FILE__).'/layouts/partials/js-init.html'); ?>
 </body>
 </html>
