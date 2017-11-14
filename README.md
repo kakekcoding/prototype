@@ -1,5 +1,5 @@
 # Permasalahan bug
-[![MIT License](https://github.com/kakekcoding/prototype/blob/master/LICENSE.md)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Bantu fix file /prototype/reservasi/layouts/partials/head.php
 
