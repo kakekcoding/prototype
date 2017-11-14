@@ -1,0 +1,59 @@
+.navbar-ku .navbar-brand {
+    color : #FFFFFF;
+}
+
+.navbar-ku .primary-menu li a {
+    font-family : Gisha;
+    font-weight : bold;
+    color       : #FFFFFF;
+}
+
+.navbar-ku .primary-menu li a:hover {
+    color: #FFFFFF;
+}
+
+.navbar-ku .menu-kanan {
+    border-width : thin;
+    border-style : dotted;
+    border-color : red;
+}
+
+.isi-konten{
+    margin-top     : 70px;
+    padding-bottom : 50px;
+}
+
+
+footer {
+	background-color: #f2f2f2;
+	padding: 25px;
+}
+
+.text-left{
+	font-family: Gisha;
+	color: 232323;
+	font-weight: bold;
+ }
+
+.carousel-inner img {
+	width: 100%; 
+	min-height: 200px;
+}
+
+legend{
+	font-family: Gisha;
+	color: #232323;
+	font-weight: bold;
+}
+
+.footer-border{
+	border-left-style: stripped;
+	border-width: medium;
+	border-left-color: #FF9933; 
+}
+
+@media (max-width: 600px) {
+	.carousel-caption {
+		display: none; 
+	}
+}
