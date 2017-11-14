@@ -6,5 +6,5 @@ Bantu fix file /prototype/reservasi/layouts/partials/head.php
 # Clone via Git
 Download Git [di sini](https://git-scm.com/downloads)
 
-# Contribusi
+# Kontribusi
 Siapapun boleh berkontribusi untuk proyek ini. Jika berminat silahkan fork repository ini.
