@@ -3,6 +3,8 @@
 
 Bantu fix file /prototype/reservasi/layouts/partials/navbar.php
 
+![error](screenshoot/error.png "Error pada line 4")
+
 # Clone via Git
 Download Git [di sini](https://git-scm.com/downloads)
 
