@@ -1,4 +1,4 @@
-# Prototype
+# Permasalahan bug
 Bantu fix file /prototype/reservasi/layouts/partials/head.php
 
 # Clone via Git
