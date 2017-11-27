@@ -4,13 +4,23 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<?php require_once (dirname(__FILE__).'/layouts/partials/head.php'); ?>
+	<!-- head -->
+	<?php require_once '../layouts/partials/head.php'; ?>
 </head>
 <body>
-	<?php require_once (dirname(__FILE__).'/layouts/partials/navbar.php'); ?>
+	<!-- navbar -->
+	<?php require_once '../layouts/partials/navbar.php'; ?>
+	
+	<!-- container -->
+	<div class="container isi-konten">
+		<!-- slideshow -->
+		<?php require_once '../layouts/partials/main-content.php'; ?>
+	</div>
 
+	<!-- footer -->
+	<?php require_once '../layouts/partials/footer.html'; ?>
 
-	<?php require_once (dirname(__FILE__).'/layouts/partials/footer.html'); ?>
-	<?php require_once (dirname(__FILE__).'/layouts/partials/js-init.html'); ?>
+	<!-- js -->
+	<?php require_once '../layouts/partials/js-init.html'; ?>
 </body>
 </html>

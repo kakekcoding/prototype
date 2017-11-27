@@ -1,9 +1,14 @@
+*{
+	margin:0; 
+	padding:0;
+}
+
 .navbar-ku .navbar-brand {
     color : #FFFFFF;
 }
 
 .navbar-ku .primary-menu li a {
-    font-family : Gisha;
+    font-family : Verdana, Geneva, sans-serif;
     font-weight : bold;
     color       : #FFFFFF;
 }
@@ -18,7 +23,7 @@
     border-color : red;
 }
 
-.isi-konten{
+.isi-konten {
     margin-top     : 70px;
     padding-bottom : 50px;
 }
@@ -27,9 +32,10 @@
 footer {
 	background-color: #f2f2f2;
 	padding: 25px;
+	border-left: thin solid #FF9933;
 }
 
-.text-left{
+.text-left {
 	font-family: Gisha;
 	color: 232323;
 	font-weight: bold;
@@ -40,16 +46,10 @@ footer {
 	min-height: 200px;
 }
 
-legend{
+legend {
 	font-family: Gisha;
 	color: #232323;
 	font-weight: bold;
-}
-
-.footer-border{
-	border-left-style: stripped;
-	border-width: medium;
-	border-left-color: #FF9933; 
 }
 
 @media (max-width: 600px) {
