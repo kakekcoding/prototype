@@ -13,8 +13,8 @@
 	
 	<!-- container -->
 	<div class="container isi-konten">
-		<!-- slideshow -->
-		<?php require_once 'layouts/partials/main-content.php'; ?>
+		<!-- member panel -->
+		<?php require_once 'layouts/partials/member-panel.php'; ?>
 	</div>
 
 	<!-- footer -->
