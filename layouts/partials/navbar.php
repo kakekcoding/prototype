@@ -22,8 +22,8 @@
 				<li class="<?php echo ($namaHalaman=='#')?'active':'';?>" >
 					<a class="<?php echo ($namaHalaman=='#')?'active':'';?>" href="#" >Beranda</a>
 				</li>
-				<li class="<?php echo ($namaHalaman=='index.php')?'active':'';?>" >
-					<a class="<?php echo ($namaHalaman=='index.php')?'active':'';?>" href="index.php" >Reservasi</a>
+				<li class="<?php echo ($namaHalaman=='reservasi.php')?'active':'';?>" >
+					<a class="<?php echo ($namaHalaman=='reservasi.php')?'active':'';?>" href="reservasi.php" >Reservasi</a>
 				</li>
 				<li class="<?php echo ($namaHalaman=='paket.php')?'active':'';?>" >
 					<a class="<?php echo ($namaHalaman=='paket.php')?'active':'';?>" href="paket.php" >Paket</a>

@@ -10,7 +10,7 @@
 			<!-- Slides -->
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
-					<img src="../static/img/slideshow/800x400.png" alt="Image">
+					<img src="static/img/slideshow/800x400.png" alt="Image">
 			          	<div class="carousel-caption">
 			            	<h3>Paket Wisata 1</h3>
 			            	<p>Rp. 10.000.000</p>
@@ -18,7 +18,7 @@
 				</div>
 
 				<div class="item">
-					<img src="../static/img/slideshow/800x400%202.png" alt="Image">
+					<img src="static/img/slideshow/800x400%202.png" alt="Image">
 						<div class="carousel-caption">
 							<h3>Paket Wisata 2</h3>
 							<p>Rp. 10.000.000</p>
@@ -37,7 +37,8 @@
 			</a>
 		</div>
 	</div>
-
+	
+	<!-- Form pemesanan -->
 	<div class="col-sm-4 blog-sidebar">
 		<div class="sidebar-module sidebar-module-inset">
 			<div class="row">

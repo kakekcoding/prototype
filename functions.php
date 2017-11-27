@@ -1,16 +1,18 @@
 <?php  
-	//config
+	// config
 	require_once(dirname(__FILE__).'/config.php');
 
-	//title
-	function title_reservasi(){
-		global $title_reservasi;
+	// title
+	function title()
+	{
+		global $title;
 
-		echo $title_reservasi;
+		echo $title;
 	}
 
-	//URL reservasi
-	function url_reservasi(){
+	// URL reservasi
+	function url_reservasi()
+	{
 		echo ABS_URL;
 	}
 ?>
