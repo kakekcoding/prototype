@@ -42,17 +42,19 @@
 	<div class="col-sm-4 blog-sidebar">
 		<div class="sidebar-module sidebar-module-inset">
 			<div class="row">
-				<form action="" method="POST" role="form" class="form-horizontal">
+				<form action="proses/input-reservasi.php" method="POST" role="form" class="form-horizontal">
 					<legend class="text-center">Pesan Tiket Sekarang</legend>
-						 		
+						
+						 	<input type="text" class="form-control" name="id" hidden="hidden" style="display: none;">
+
 						<div class="form-group col-sm-12">
 						 	<label for="">Nama pemesan</label>
-						 	<input type="text" class="form-control">
+						 	<input type="text" class="form-control" name="nama_pemesan">
 						 </div>
 						 		
 						<div class="form-group col-sm-12">
 						 	<label for="">Jenis paket liburan</label>
-						 	<select name="" id="input" class="form-control" required="required">
+						 	<select name="jenis_paket" id="input" class="form-control" required="required">
 						 		<option value="">Pake wisata 1</option>
 						 		<option value="">Pake wisata 2</option>
 						 	</select>
@@ -60,7 +62,7 @@
 
 						<div class="form-group col-sm-12">
 						 	<label for="">Kelas</label>
-						 	<select name="" id="input" class="form-control" required="required">
+						 	<select name="kelas" id="input" class="form-control" required="required">
 						 		<option value="">Kelas 1</option>
 						 		<option value="">Kelas 2</option>
 						 	</select>
@@ -68,7 +70,7 @@
 						 		
 						<div class="form-group col-sm-12">
 						 	<label for="">Jumlah</label>
-						 	<select name="" id="input" class="form-control" required="required">
+						 	<select name="jumlah_tiket" id="input" class="form-control" required="required">
 						 		<option value="">1</option>
 						 		<option value="">2</option>
 						 	</select>
@@ -76,10 +78,10 @@
 
 						 <div class="form-group col-sm-12">
 						 	<label for="">Tanggal Berangkat</label>
-						 	<input type="date" class="form-control">
+						 	<input type="date" class="form-control" name="tanggal">
 						</div>
 
-						<button type="button" class="btn btn-success col-sm-11" style="background-color: #FF9933; border-color: #FF9933;">Pesan sekarang</button>
+						<button type="submit" class="btn btn-success col-sm-11" style="background-color: #FF9933; border-color: #FF9933;">Pesan sekarang</button>
 						
 				</form>
 			</div>
