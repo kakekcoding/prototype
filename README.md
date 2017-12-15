@@ -1,7 +1,7 @@
 # Permasalahan bug
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-All fix.
+Tolong bantu di folder admin.
 
 # Clone via Git
 Download Git [di sini](https://git-scm.com/downloads)
